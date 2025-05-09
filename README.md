@@ -1,4 +1,4 @@
-# 📚 Library Management System - Spring Boot
+# 📚 LibraTrack – Smart Library Management System
 
 A Library Management System built using **Spring Boot**, secured with **JWT**, and powered by **MySQL**. This project allows users to issue and return books, while admins can manage the system. Authentication and role-based access are handled using **Spring Security**.
 
